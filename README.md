@@ -1,4 +1,5 @@
-# Shooter[Новый текстовый документ.txt](https://github.com/K1llkae/Shooter/files/8448558/default.txt)from pygame import *
+# Shooter[Новый текстовый документ.txt](https://github.com/K1llkae/Shooter/files/8448558/default.txt)
+from pygame import *
 from random import randint
 from time import time as timer
 
